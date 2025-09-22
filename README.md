@@ -3,7 +3,6 @@ When trying to solve problems optimally with the best time and space complexity 
 
 ![Alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/0*8kOBsduOiqDHVnfx.gif)
 
-````markdown
 # Sliding Window Algorithm Explained
 
 Many coding problems involve manipulating **arrays** and **strings** — for example:  
